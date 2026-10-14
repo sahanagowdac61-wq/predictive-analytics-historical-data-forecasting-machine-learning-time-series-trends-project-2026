@@ -1,0 +1,2 @@
+# predictive-analytics-historical-data-forecasting-machine-learning-time-series-trends-project-2026
+Develop a predictive analytics project using Python to forecast future trends from historical datasets.a  Clean and preprocess data, analyze patterns, and build regression or time-series models. Evaluate prediction &amp; accuracy using suitable metrics . This project demonstrates machine learning, trend analysis, and data-driven decision-making skills.
